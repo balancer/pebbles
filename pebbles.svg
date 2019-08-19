@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="480px" height="480px" viewBox="0 0 480 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
     <title>pebbles</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="pebbles" transform="translate(40.000000, 40.000000)" fill="#000000" stroke="#FFFFFF" stroke-width="40">
-            <ellipse id="peb-lg" cx="200" cy="300" rx="220" ry="120"></ellipse>
-            <ellipse id="peb-md" cx="200" cy="165" rx="170" ry="95"></ellipse>
-            <ellipse id="peb-sm" cx="200" cy="50" rx="120" ry="70"></ellipse>
+        <g id="pebbles" fill="#000000">
+            <path d="M293.056374,195.555158 C310.074964,208.26722 320,223.554081 320,240 C320,284.18278 248.36556,320 160,320 C71.63444,320 0,284.18278 0,240 C0,223.554081 9.92503626,208.26722 26.9436258,195.555158 C55.6463234,222.355457 104.526279,240 160,240 C214.786647,240 263.141852,222.789826 291.980616,196.547601 Z" id="Combined-Shape"></path>
+            <path d="M243.980113,97.1416575 C266.208121,108.031888 280,123.210628 280,140 C280,173.137085 226.27417,200 160,200 C93.72583,200 40,173.137085 40,140 C40,123.210628 53.7918793,108.031888 76.0198874,97.1416575 C97.6631676,111.282795 127.304575,120 160,120 C192.474343,120 221.93583,111.400285 243.53997,97.4305168 Z" id="Combined-Shape"></path>
+            <ellipse id="peb-sm" cx="160" cy="40" rx="80" ry="40"></ellipse>
         </g>
     </g>
 </svg>
