@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="534px" height="534px" viewBox="0 0 534 534" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
     <title>pebbles</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="pebbles" fill="#000000">
-            <path d="M293.056374,195.555158 C310.074964,208.26722 320,223.554081 320,240 C320,284.18278 248.36556,320 160,320 C71.63444,320 0,284.18278 0,240 C0,223.554081 9.92503626,208.26722 26.9436258,195.555158 C55.6463234,222.355457 104.526279,240 160,240 C214.786647,240 263.141852,222.789826 291.980616,196.547601 Z" id="Combined-Shape"></path>
-            <path d="M243.980113,97.1416575 C266.208121,108.031888 280,123.210628 280,140 C280,173.137085 226.27417,200 160,200 C93.72583,200 40,173.137085 40,140 C40,123.210628 53.7918793,108.031888 76.0198874,97.1416575 C97.6631676,111.282795 127.304575,120 160,120 C192.474343,120 221.93583,111.400285 243.53997,97.4305168 Z" id="Combined-Shape"></path>
-            <ellipse id="peb-sm" cx="160" cy="40" rx="80" ry="40"></ellipse>
+        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="16.5" fill="#FFFFFF" x="8.75" y="8.75" width="516.5" height="516.5"></rect>
+        <g id="Group-3" transform="translate(77.000000, 69.000000)" fill="#000000" stroke="#FFFFFF" stroke-width="16">
+            <ellipse id="peb-lg" cx="191.41604" cy="242" rx="199.41604" ry="71.5"></ellipse>
+            <ellipse id="peb-md" cx="191.41604" cy="127.5" rx="161.132832" ry="59"></ellipse>
+            <ellipse id="peb-sm" cx="191.41604" cy="38.25" rx="122.849624" ry="46.25"></ellipse>
         </g>
+        <rect id="Rectangle" stroke="#000000" stroke-width="16.5" x="25.25" y="25.25" width="483.5" height="483.5"></rect>
+        <text id="balancer" font-family="PTMono-Regular, PT Mono" font-size="72" font-weight="normal" fill="#000000">
+            <tspan x="94" y="456">balancer</tspan>
+        </text>
     </g>
 </svg>
