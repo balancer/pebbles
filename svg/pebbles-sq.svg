@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>pebbles-sq</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pebbles-sq">
+            <g id="pebbles" transform="translate(33.149171, 55.466667)" fill="#000000">
+                <g id="pebbles-thinner">
+                    <path d="M133.370827,94.9052823 C166.724832,99.8397256 190,111.01016 190,124 C190,141.559823 147.467051,155.794872 95,155.794872 C42.5329488,155.794872 0,141.559823 0,124 C0,111.01016 23.2751682,99.8397256 56.6291725,94.9052823 C68.0861136,97.2421955 81.1433029,98.5641026 95,98.5641026 C108.641433,98.5641026 121.508007,97.2829482 132.836907,95.0152168 Z" id="peb-bot"></path>
+                    <path d="M118.98,42.625411 C149.202997,45.986128 171,55.5257504 171,66.7692308 C171,80.817089 136.973641,92.2051282 95,92.2051282 C53.026359,92.2051282 19,80.817089 19,66.7692308 C19,55.5257504 40.7970027,45.986128 71.0199996,42.625411 C78.416522,43.8424216 86.5133252,44.5128205 95,44.5128205 C103.394728,44.5128205 111.407987,43.8568695 118.739345,42.6656263 Z" id="peb-med"></path>
+                    <g id="peb-top" transform="translate(38.000000, 0.000000)">
+                        <ellipse id="peb-sm" cx="57" cy="19.0769231" rx="57" ry="19.0769231"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle" stroke="#000000" stroke-width="8" filter="url(#filter-1)" x="4" y="4" width="248" height="248"></rect>
+        </g>
+    </g>
+</svg>
