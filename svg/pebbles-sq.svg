@@ -8,7 +8,7 @@
             <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
         </filter>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Spread" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="pebbles-sq">
             <g id="pebbles" transform="translate(33.149171, 55.466667)" fill="#000000">
                 <g id="pebbles-thinner">

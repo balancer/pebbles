@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="258px" viewBox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>pebbles-thin-circ-pad</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Spread" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pebbles-thin-circ-pad" transform="translate(1.000000, 1.000000)">
+            <g id="grid"></g>
+            <circle id="Oval" stroke="#000000" stroke-width="7.5" cx="128" cy="128" r="116.25"></circle>
+            <g id="pebbles-thin" transform="translate(46.000000, 52.000000)" fill="#000000">
+                <g id="pebbles-thinner">
+                    <path d="M108.114033,82.1089833 C142.422642,85.5925198 167.384615,96.224563 167.384615,108.8 C167.384615,124.207328 129.914293,136.697436 83.6923077,136.697436 C37.4703225,136.697436 0,124.207328 0,108.8 C0,96.2246853 24.9614883,85.5927266 59.2695819,82.1090849 C66.8707491,83.1329551 75.1000787,83.6923077 83.6923077,83.6923077 C92.1663383,83.6923077 100.287385,83.1482386 107.800618,82.1518393 Z" id="peb-bot"></path>
+                    <path d="M83.6923077,36.2666667 C120.669896,36.2666667 150.646154,46.2587527 150.646154,58.5846154 C150.646154,70.9104781 120.669896,80.9025641 83.6923077,80.9025641 C46.7147195,80.9025641 16.7384615,70.9104781 16.7384615,58.5846154 C16.7384615,46.2587527 46.7147195,36.2666667 83.6923077,36.2666667 Z" id="peb-med"></path>
+                    <g id="peb-top" transform="translate(33.476923, 0.000000)">
+                        <ellipse id="peb-sm" cx="50.2153846" cy="16.7384615" rx="50.2153846" ry="16.7384615"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="210px" viewBox="0 0 256 210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>pebbles-thin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Spread" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pebbles-thin" fill="#000000">
+            <g id="pebbles-thinner">
+                <path d="M165.349306,125.578286 C217.822103,130.905883 256,147.166787 256,166.4 C256,189.964149 198.692448,209.066667 128,209.066667 C57.307552,209.066667 0,189.964149 0,166.4 C0,147.166787 38.1778965,130.905883 90.6506937,125.578286 C102.275088,127.144668 114.860081,128 128,128 C140.960282,128 153.380707,127.167894 164.871534,125.64399 Z" id="peb-bot"></path>
+                <path d="M128,55.4666667 C184.553958,55.4666667 230.4,70.7486805 230.4,89.6 C230.4,108.451319 184.553958,123.733333 128,123.733333 C71.4460416,123.733333 25.6,108.451319 25.6,89.6 C25.6,70.7486805 71.4460416,55.4666667 128,55.4666667 Z" id="peb-med"></path>
+                <g id="peb-top" transform="translate(51.200000, 0.000000)">
+                    <ellipse id="peb-sm" cx="76.8" cy="25.6" rx="76.8" ry="25.6"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
