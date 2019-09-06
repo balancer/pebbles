@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>pebbles-thick-sq</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Spread" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pebbles-thick-sq">
+            <rect id="Rectangle" stroke="#000000" stroke-width="8" filter="url(#filter-1)" x="4" y="4" width="248" height="248"></rect>
+            <g id="pebbles-thick" transform="translate(33.066667, 55.466667)" fill="#000000">
+                <g transform="translate(0.000000, 0.634530)">
+                    <path d="M140.024458,94.4729562 C169.980484,99.8166328 190.358974,110.347178 190.358974,122.464274 C190.358974,139.986333 147.745666,154.190769 95.1794872,154.190769 C42.6133079,154.190769 0,139.986333 0,122.464274 C0,110.347178 20.37849,99.8166328 50.334516,94.4729562 C63.3537898,97.7366202 78.7205061,99.6211966 95.1794872,99.6211966 C111.615179,99.6211966 126.961695,97.7419497 139.968087,94.4875698 Z" id="peb-bot"></path>
+                    <path d="M128.460653,42.521795 C153.83582,46.6387465 171.323077,55.3169359 171.323077,65.3565812 C171.323077,79.374229 137.232431,90.7377778 95.1794872,90.7377778 C53.1265438,90.7377778 19.0358974,79.374229 19.0358974,65.3565812 C19.0358974,55.3169359 36.5231541,46.6387465 61.8983213,42.521795 C71.6467451,44.9357108 83.0256951,46.3206838 95.1794872,46.3206838 C107.090983,46.3206838 118.258224,44.9903815 127.875255,42.6662429 Z" id="peb-med"></path>
+                    <g id="peb-top" transform="translate(38.071795, 0.000000)">
+                        <ellipse id="peb-sm" cx="57.1076923" cy="19.0358974" rx="57.1076923" ry="19.0358974"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
